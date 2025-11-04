@@ -258,3 +258,4 @@ p3a.brave.com
 @@||aemetrics.aliexpress.ru^$important
 ||tracker.filemail.com^$important
 ||tracker.moxing.party^$important
+@@||msfree.su^$important
