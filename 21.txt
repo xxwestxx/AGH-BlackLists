@@ -270,3 +270,5 @@ p3a.brave.com
 ||mediation.goog^
 @@||netcraze.pro^
 @@||evgenn.su^
+||drive-image.com^
+||r-tt.com^
