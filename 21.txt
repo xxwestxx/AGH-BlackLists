@@ -213,7 +213,6 @@ software-nas/Swhttp/LiveUpdate4
 @@||build.wireguard.com^$client='PC'
 @@||download2431.mediafire.com^$client='PC'
 @@||xvideos.com^$client='PC'
-@@||counter.yadro.ru^
 ||games.s3.yandex.net^
 ||games-sdk.yandex.ru^
 @@||m.stoloto.ru^
